@@ -38,7 +38,11 @@
 
 		map.on('load', function() {
 		  var url = 'data/office_vacancies.json';
-		  map.addSource('offices', { type: 'geojson', data: url});
+		  map.addSource('offices', { 
+		  	type: 'geojson', 
+		  	data: url,
+		    generateId: true
+		});
 		
 
 		map.addLayer({
@@ -48,8 +52,8 @@
 			'layout': {},
 			'paint': {
 			'fill-color': {
-				property: 'percentChange',
-				stops: [[-15, '#4867d9'], [12, '#f00']]
+				property: 'vacancy_rate',
+				stops: [[0, '#4867d9'], [100, '#f00']]
 			},
 			'fill-opacity': [
 				'case',
@@ -81,7 +85,7 @@
 			map.getCanvas().style.cursor = 'pointer';
 			popup
 			.setLngLat(e.lngLat)
-			.setHTML(e.features[0].properties.name + '<br><b>2024 market value</b>: ' + e.features[0].properties.marketValue2024 + '<br><hr>That\'s a <b>' + e.features[0].properties.percentChange + '</b>% percent difference from 2019.')
+			.setHTML('<h3>' + e.features[0].properties.name + '</h3>Vacancy: ' + e.features[0].properties.vacancy_rate + '%')
 			.addTo(map);
 			//console.log(e.lngLat)
 
