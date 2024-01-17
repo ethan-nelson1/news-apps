@@ -30,8 +30,8 @@
         container: 'map', // container ID
         // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
         style: 'mapbox://styles/mapbox/light-v11', // style URL
-        center: [-93.26912014386257, 44.97521074054782], // starting position [lng, lat]
-        zoom: 14,// starting zoom
+        center: [-93.26534177278435,44.977318918138035], // starting position [lng, lat]
+        zoom: 14.9,// starting zoom
         cooperativeGestures: true
     });
 
@@ -54,13 +54,13 @@
 			'paint': {
 			'fill-color': {
 				property: 'vacancy_rate',
-				stops: [[0, '#ffc100'], [20, '#ff9a00'], [90, '#ff0000']]
+				stops: [[0, '#eff3ff'], [.2, '#bdd7e7'], [.4, '#6baed6'], [.6, '#3182bd'], [.8, '#08519c']]
 			},
 			'fill-opacity': [
 				'case',
 					['boolean', ['feature-state', 'hover'], false],
 					1,
-					0.5
+					0.8
 			]
 		}
 		});
@@ -86,7 +86,10 @@
 			map.getCanvas().style.cursor = 'pointer';
 			popup
 			.setLngLat(e.lngLat)
-			.setHTML('<h3>' + e.features[0].properties.name + '</h3>Vacancy: ' + e.features[0].properties.vacancy_rate + '%')
+			.setHTML('<h3 style="line-height:1px">' + e.features[0].properties.name + '</h3>' + 
+					 '<h4 style="line-height:1px">' + e.features[0].properties.property_address + '</h4><hr>' +
+					 'Vacancy rate: <b>' + (e.features[0].properties.vacancy_rate * 100).toFixed(0) + '%</b>' +
+					 '<br>This building has <b>' + e.features[0].properties.RBA.toLocaleString() + '</b> total rentable square feet.')
 			.addTo(map);
 			//console.log(e.lngLat)
 
