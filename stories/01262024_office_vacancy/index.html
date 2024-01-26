@@ -8,6 +8,7 @@
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.0.0/d3.min.js"></script>
 
 <style>
 	body { margin: 0; padding: 0; }
@@ -20,7 +21,7 @@
 
 <body>
 
-<h2>Vacancy rates of downtown Minneapolis office buildings. </h2>
+<h2>Leasing rates of downtown Minneapolis office buildings. </h2>
 <p>Office buildings' vacancy rates depend largely on where the building is located in downtown.</p>
 <div id="map" height="400px"></div>
 
@@ -44,7 +45,9 @@
 		  	data: url,
 		    generateId: true
 		});
-		
+
+		var colorscale = d3.scaleSequential(d3.interpolateYlGnBu)
+  .domain([0, 16]);
 
 		map.addLayer({
 			'id': 'offices',
@@ -53,8 +56,8 @@
 			'layout': {},
 			'paint': {
 			'fill-color': {
-				property: 'vacancy_rate',
-				stops: [[0, '#eff3ff'], [.2, '#bdd7e7'], [.4, '#6baed6'], [.6, '#3182bd'], [.8, '#08519c']]
+				property: 'percent_leased',
+				stops: [[0, '#d7191c'], [100, '#2c7bb6']]
 			},
 			'fill-opacity': [
 				'case',
@@ -88,7 +91,7 @@
 			.setLngLat(e.lngLat)
 			.setHTML('<h3 style="line-height:1px">' + e.features[0].properties.name + '</h3>' + 
 					 '<h4 style="line-height:1px">' + e.features[0].properties.property_address + '</h4><hr>' +
-					 'Vacancy rate: <b>' + (e.features[0].properties.vacancy_rate * 100).toFixed(0) + '%</b>' +
+					 'Availability rate: <b>' + (e.features[0].properties.vacancy_rate).toFixed(0) * 100 + '%</b>' +
 					 '<br>This building has <b>' + e.features[0].properties.RBA.toLocaleString() + '</b> total rentable square feet.')
 			.addTo(map);
 			//console.log(e.lngLat)
