@@ -92,7 +92,7 @@
 			.setLngLat(e.lngLat)
 			.setHTML('<h3 style="line-height:1px">' + e.features[0].properties.name + '</h3>' + 
 					 '<h4 style="line-height:1px">' + e.features[0].properties.property_address + '</h4><hr>' +
-					 'Availability rate: <b>' + (avail_percentage).toFixed(2) * 100 + '%</b>' +
+					 'Availability rate: <b>' + (avail_percentage).toFixed(0) * 100 + '%</b>' +
 					 '<br>This building has <b>' + e.features[0].properties.RBA.toLocaleString() + '</b> total rentable square feet.')
 			.addTo(map);
 			console.log(e.features[0].properties.space_available);
