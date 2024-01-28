@@ -22,7 +22,7 @@
 <body>
 
 <h2>Leasing rates of downtown Minneapolis office buildings. </h2>
-<p>Office buildings' vacancy rates depend largely on where the building is located in downtown.</p>
+<p>Data provided by CoStar Inc. as of January 2024. The availability rate is the space currently being marketed as available for lease or sale, including spaces that may be unoccupied or leased. Darker colors indicate more space available</p>
 <div id="map" height="400px"></div>
 
 <script>
@@ -57,7 +57,7 @@
 			'paint': {
 			'fill-color': {
 				property: 'vacancy_rate',
-				stops: [[0, '#d7191c'], [100, '#2c7bb6']]
+				stops: [[0, '#ffeda0'], [1, '#f03b20']]
 			},
 			'fill-opacity': [
 				'case',
@@ -86,15 +86,17 @@
 		});
 
 		map.on('mouseenter', 'offices', (e) => {
+			let avail_percentage = e.features[0].properties.space_available / e.features[0].properties.RBA;
 			map.getCanvas().style.cursor = 'pointer';
 			popup
 			.setLngLat(e.lngLat)
 			.setHTML('<h3 style="line-height:1px">' + e.features[0].properties.name + '</h3>' + 
 					 '<h4 style="line-height:1px">' + e.features[0].properties.property_address + '</h4><hr>' +
-					 'Availability rate: <b>' + (e.features[0].properties.vacancy_rate).toFixed(0) * 100 + '%</b>' +
+					 'Availability rate: <b>' + (avail_percentage).toFixed(2) * 100 + '%</b>' +
 					 '<br>This building has <b>' + e.features[0].properties.RBA.toLocaleString() + '</b> total rentable square feet.')
 			.addTo(map);
-			//console.log(e.lngLat)
+			console.log(e.features[0].properties.space_available);
+			console.log(e.features[0].properties.RBA);
 
 		});
 
