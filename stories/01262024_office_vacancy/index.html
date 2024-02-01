@@ -56,7 +56,7 @@
 			'layout': {},
 			'paint': {
 			'fill-color': {
-				property: 'vacancy_rate',
+				property: 'avail_space',
 				stops: [[0, '#ffeda0'], [1, '#f03b20']]
 			},
 			'fill-opacity': [
@@ -86,13 +86,12 @@
 		});
 
 		map.on('mouseenter', 'offices', (e) => {
-			let avail_percentage = e.features[0].properties.space_available / e.features[0].properties.RBA;
 			map.getCanvas().style.cursor = 'pointer';
 			popup
 			.setLngLat(e.lngLat)
 			.setHTML('<h3 style="line-height:1px">' + e.features[0].properties.name + '</h3>' + 
 					 '<h4 style="line-height:1px">' + e.features[0].properties.property_address + '</h4><hr>' +
-					 'Availability rate: <b>' + (avail_percentage).toFixed(0) * 100 + '%</b>' +
+					 'Availability rate: <b>' + (e.features[0].properties.avail_space * 100).toFixed(0) + '%</b>' +
 					 '<br>This building has <b>' + e.features[0].properties.RBA.toLocaleString() + '</b> total rentable square feet.')
 			.addTo(map);
 			console.log(e.features[0].properties.space_available);
