@@ -22,16 +22,17 @@
 <body>
 
 <h2>Availability rates of downtown Minneapolis office buildings. </h2>
-<p>Data provided by CoStar Inc. as of January 2024. The availability rate is the space currently being marketed as available for lease or sale, including spaces that may be unoccupied or leased. Darker colors indicate more space available.</p>
+<p>Data provided by CoStar Inc. as of January 2024. The availability rate is the space currently being marketed as available for lease or sale, including spaces that may be unoccupied or leased. Use your cursor to hover over a building to see more detail. Darker colors indicate more space available.</p>
 <div id="map" height="400px"></div>
 
 <script>
+
 	mapboxgl.accessToken = 'pk.eyJ1IjoiZW5lbHNvbmRiaiIsImEiOiJja2F5anY1OW0wNnN1MzBzZGRoajR1a3UzIn0.bFgqFbvZ2It3mAzefjAnZA';
     const map = new mapboxgl.Map({
         container: 'map', // container ID
         // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
         style: 'mapbox://styles/mapbox/light-v11', // style URL
-        center: [-93.27207081720819, 44.976205812333625], // starting position [lng, lat]
+        center: [-93.27107081720819, 44.976205812333625], // starting position [lng, lat]
         zoom: 14,// starting zoom
         cooperativeGestures: true
     });
@@ -46,8 +47,10 @@
 		    generateId: true
 		});
 
-		var colorscale = d3.scaleSequential(d3.interpolateYlGnBu)
-  .domain([0, 16]);
+
+		var colorscale = d3.scaleSequential(d3.interpolateReds)
+  						   .domain([0, 8]);
+  		console.log(colorscale(1));
 
 		map.addLayer({
 			'id': 'offices',
@@ -57,7 +60,7 @@
 			'paint': {
 			'fill-color': {
 				property: 'avail_space',
-				stops: [[0, '#ffeda0'], [1, '#f03b20']]
+				stops: [[0, colorscale(0)], [.5, colorscale(4)], [1, colorscale(8)]]
 			},
 			'fill-opacity': [
 				'case',
