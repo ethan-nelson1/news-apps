@@ -76,11 +76,12 @@
             /* The dots/bullets/indicators */
             .dot {
               cursor: pointer;
-              height: 15px;
-              width: 15px;
-              margin: 0 2px;
+              margin: 10px;
+              padding: 10px;
               background-color: #bbb;
-              border-radius: 50%;
+              border-radius: 60%;
+              font-family: Arial, Helvetica, sans-serif;
+              color: #fff;
               display: inline-block;
               transition: background-color 0.6s ease;
             }
@@ -106,21 +107,20 @@
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
-    
 <!-- The dots/circles -->
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(1)">1990</span>
+  <span class="dot" onclick="currentSlide(2)">2020</span>
 </div>  
-    
+
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <iframe title="Asian population in the Twin Cities, 1990" aria-label="Choropleth map" id="datawrapper-chart-T7T87" src="https://datawrapper.dwcdn.net/T7T87/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="760" data-external="1"></iframe>
+    <iframe title="Asian population in the Twin Cities, 1990" aria-label="Choropleth map" id="datawrapper-chart-T7T87" src="https://datawrapper.dwcdn.net/T7T87/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="550" data-external="1"></iframe>
 
   </div>
 
   <div class="mySlides fade">
-            <iframe title="[ Insert title here ]" aria-label="Choropleth map" class="dw" id="datawrapper-chart-t1o6X" src="https://datawrapper.dwcdn.net/t1o6X/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="729" data-external="1"></iframe>
+            <iframe title="[ Insert title here ]" aria-label="Choropleth map" class="dw" id="datawrapper-chart-t1o6X" src="https://datawrapper.dwcdn.net/t1o6X/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="550" data-external="1"></iframe>
   </div>
 
 
@@ -129,6 +129,7 @@
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
+
 
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
 </script>
