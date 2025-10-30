@@ -1,0 +1,4789 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.341278,44.98064 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":2703103,
+    "schoolname":"Breck School",
+    "rel_affiliation":"Episcopal",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":1200,
+    "max_tuition":39990,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.34488923,44.95772649 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":283,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Louis Park Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2833101,
+    "schoolname":"Benilde - St. Margaret's",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":1030,
+    "max_tuition":18525,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.98793,44.992222 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":622,
+    "dst_tye":31,
+    "DISTRICTNAME":"North St. Paul-Maplewood Oakdale",
+    "sch_num":64,
+    "sch_num_formatted":64,
+    "ID":62231064,
+    "schoolname":"Hill-Murray School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":1057,
+    "max_tuition":16555,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.472023,45.0434 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":10,
+    "sch_num_formatted":10,
+    "ID":28431010,
+    "schoolname":"Providence Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":945,
+    "max_tuition":22225,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1591138,44.9248616 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":835,
+    "sch_num_formatted":835,
+    "ID":625310835,
+    "schoolname":"Cretin-Derham Hall",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":860,
+    "max_tuition":17320,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.399017,45.090061 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":279,
+    "dst_tye":31,
+    "DISTRICTNAME":"Osseo Public School District",
+    "sch_num":6,
+    "sch_num_formatted":6,
+    "ID":2793106,
+    "schoolname":"Maranatha Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":870,
+    "max_tuition":16220,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.344177,45.219595 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":14,
+    "sch_num_formatted":14,
+    "ID":1131014,
+    "schoolname":"Legacy Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":897,
+    "max_tuition":15679,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12351253,44.95972413 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":861,
+    "sch_num_formatted":861,
+    "ID":625310861,
+    "schoolname":"St. Agnes",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":808,
+    "max_tuition":14550,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3525671,44.9070961 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":273,
+    "dst_tye":31,
+    "DISTRICTNAME":"Edina Public School District",
+    "sch_num":7,
+    "sch_num_formatted":7,
+    "ID":2733107,
+    "schoolname":"Our Lady of Grace Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":900,
+    "max_tuition":9750,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.26149,44.98663 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":9,
+    "sch_num_formatted":9,
+    "ID":13309,
+    "schoolname":"DeLaSalle High School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":650,
+    "max_tuition":16995,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.969994,44.890831 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":833,
+    "dst_tye":31,
+    "DISTRICTNAME":"South Washington County Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":8333101,
+    "schoolname":"New Life Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":824,
+    "max_tuition":16240,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.235985,45.074848 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":14,
+    "dst_tye":31,
+    "DISTRICTNAME":"Fridley Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":143102,
+    "schoolname":"Totino Grace High School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":689,
+    "max_tuition":18575,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1742515,44.92625019 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":878,
+    "sch_num_formatted":878,
+    "ID":625310878,
+    "schoolname":"St. Paul Academy - Summit (Upper)",
+    "rel_affiliation":"None",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":662,
+    "max_tuition":39420,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.18101713,44.93207204 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":851,
+    "sch_num_formatted":851,
+    "ID":625310851,
+    "schoolname":"Nativity of Our Lord",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":772,
+    "max_tuition":6080,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.533218,44.8545 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":112,
+    "dst_tye":31,
+    "DISTRICTNAME":"Eastern Carver County Public Schools",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":1123103,
+    "schoolname":"St. Hubert Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":779,
+    "max_tuition":7520,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.278252,44.882721 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":280,
+    "dst_tye":31,
+    "DISTRICTNAME":"Richfield Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2803101,
+    "schoolname":"Academy of Holy Angels",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":633,
+    "max_tuition":17995,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1341637,45.0472555 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":621,
+    "dst_tye":31,
+    "DISTRICTNAME":"Mounds View Public School District",
+    "sch_num":83,
+    "sch_num_formatted":83,
+    "ID":62131083,
+    "schoolname":"St. Odilia Parish School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":535,
+    "max_tuition":6925,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.90105327,44.88922334 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":833,
+    "dst_tye":31,
+    "DISTRICTNAME":"South Washington County Schools",
+    "sch_num":65,
+    "sch_num_formatted":65,
+    "ID":83331065,
+    "schoolname":"Saint Ambrose Woodbury Catholic",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":591,
+    "max_tuition":7500,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13754416,44.86741718 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":7,
+    "sch_num_formatted":7,
+    "ID":1973107,
+    "schoolname":"St. Thomas Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":595,
+    "max_tuition":26825,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0133966,44.9939076 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":622,
+    "dst_tye":31,
+    "DISTRICTNAME":"North St. Paul-Maplewood Oakdale",
+    "sch_num":63,
+    "sch_num_formatted":63,
+    "ID":62231063,
+    "schoolname":"Mounds Park Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":572,
+    "max_tuition":38700,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.1625991,45.5634227 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":7423103,
+    "schoolname":"Cathedral School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":547,
+    "max_tuition":13450,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6099084,44.8119218 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":112,
+    "dst_tye":31,
+    "DISTRICTNAME":"Eastern Carver County Public Schools",
+    "sch_num":117,
+    "sch_num_formatted":117,
+    "ID":112310117,
+    "schoolname":"Southwest Christian High School",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":544,
+    "max_tuition":16100,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.385834,44.922901 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":13,
+    "sch_num_formatted":13,
+    "ID":133013,
+    "schoolname":"The Blake School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":541,
+    "max_tuition":42027,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.647133,44.85741 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":112,
+    "dst_tye":31,
+    "DISTRICTNAME":"Eastern Carver County Public Schools",
+    "sch_num":21,
+    "sch_num_formatted":21,
+    "ID":11231021,
+    "schoolname":"Holy Family Catholic High School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":530,
+    "max_tuition":19150,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.131693,44.866784 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":1973102,
+    "schoolname":"Visitation School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":492,
+    "max_tuition":28250,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07326343,44.91038211 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":1973104,
+    "schoolname":"St. Croix Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":479,
+    "max_tuition":14400,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23484,45.074841 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":14,
+    "dst_tye":31,
+    "DISTRICTNAME":"Fridley Public School District",
+    "sch_num":6,
+    "sch_num_formatted":6,
+    "ID":143106,
+    "schoolname":"Al-Amal School",
+    "rel_affiliation":"Muslim",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":478,
+    "max_tuition":8995,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.486092,44.773762 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":720,
+    "dst_tye":31,
+    "DISTRICTNAME":"Shakopee Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7203101,
+    "schoolname":"Shakopee Area Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":474,
+    "max_tuition":5984,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3989736,45.12454062 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":279,
+    "dst_tye":31,
+    "DISTRICTNAME":"Osseo Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":2793104,
+    "schoolname":"St. Vincent de Paul Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":466,
+    "max_tuition":5900,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20451303,44.92653004 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":59,
+    "sch_num_formatted":59,
+    "ID":133059,
+    "schoolname":"Minnehaha Academy Middle and Lower Schools",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":451,
+    "max_tuition":28020,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6642062,45.2105297 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":885,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Michael-Albertville Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":8853101,
+    "schoolname":"St. Michael Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":432,
+    "max_tuition":5855,
+    "county":86,
+    "county_name":"Wright",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2458707,44.6620315 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":194,
+    "dst_tye":31,
+    "DISTRICTNAME":"Lakeville Area Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":1943101,
+    "schoolname":"All Saints School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":418,
+    "max_tuition":6310,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.136581,44.83503 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":196,
+    "dst_tye":31,
+    "DISTRICTNAME":"Rosemount-Apple Valley-Eagan",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":1963104,
+    "schoolname":"Faithful Shepherd Catholic",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":407,
+    "max_tuition":7939,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.52533166,45.0132456 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":278,
+    "dst_tye":31,
+    "DISTRICTNAME":"Orono Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2783101,
+    "schoolname":"Holy Name of Jesus",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06 ",
+    "tot_enrollment":403,
+    "max_tuition":6980,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09902967,44.91189141 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":9,
+    "sch_num_formatted":9,
+    "ID":1973109,
+    "schoolname":"St. Joseph's School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":396,
+    "max_tuition":6475,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.205671,44.94587 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":18,
+    "sch_num_formatted":18,
+    "ID":133018,
+    "schoolname":"Minnehaha Academy - Upper School",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":389,
+    "max_tuition":30185,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3351278,44.8267532 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":271,
+    "dst_tye":31,
+    "DISTRICTNAME":"Bloomington Public Schools",
+    "sch_num":704,
+    "sch_num_formatted":704,
+    "ID":271310704,
+    "schoolname":"United Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":389,
+    "max_tuition":11750,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1892547,45.06396025 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":621,
+    "dst_tye":31,
+    "DISTRICTNAME":"Mounds View Public School District",
+    "sch_num":82,
+    "sch_num_formatted":82,
+    "ID":62131082,
+    "schoolname":"St. John the Baptist Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":382,
+    "max_tuition":5900,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3205566,44.9109727 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":44,
+    "sch_num_formatted":44,
+    "ID":133044,
+    "schoolname":"Carondelet Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":381,
+    "max_tuition":9990,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1065722,45.0218086 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":623,
+    "dst_tye":31,
+    "DISTRICTNAME":"Roseville Public School District",
+    "sch_num":10,
+    "sch_num_formatted":10,
+    "ID":62331010,
+    "schoolname":"North Heights Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":355,
+    "max_tuition":9581,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.80609691,45.05082522 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":834,
+    "dst_tye":31,
+    "DISTRICTNAME":"Stillwater Area Public Schools",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":8343102,
+    "schoolname":"St. Croix Catholic",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":350,
+    "max_tuition":6165,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1240612,45.0125057 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":623,
+    "dst_tye":31,
+    "DISTRICTNAME":"Roseville Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":6233101,
+    "schoolname":"Concordia Academy",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":340,
+    "max_tuition":14600,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.286284,44.90508 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":11,
+    "sch_num_formatted":11,
+    "ID":133011,
+    "schoolname":"Annunciation Elementary School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":339,
+    "max_tuition":7855,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6642062,45.2105297 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":719,
+    "dst_tye":31,
+    "DISTRICTNAME":"Prior Lake-Savage Area Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7193101,
+    "schoolname":"St. Michael Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":336,
+    "max_tuition":5860,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.38992493,44.921818 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":2703102,
+    "schoolname":"Blake Middle School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_06; gr_07; gr_08 ",
+    "tot_enrollment":332,
+    "max_tuition":40613,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3820947,45.19905189 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":16,
+    "sch_num_formatted":16,
+    "ID":1131016,
+    "schoolname":"St. Stephen’s Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":331,
+    "max_tuition":6038,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2578126,44.9363957 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":15,
+    "sch_num_formatted":15,
+    "ID":133015,
+    "schoolname":"Risen Christ",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":315,
+    "max_tuition":4700,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.155143,44.7406037 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":196,
+    "dst_tye":31,
+    "DISTRICTNAME":"Rosemount-Apple Valley-Eagan",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":1963102,
+    "schoolname":"First Baptist",
+    "rel_affiliation":"Baptist",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":309,
+    "max_tuition":6200,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2257591,45.0174907 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":282,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Anthony-New Brighton Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2823101,
+    "schoolname":"St. Charles Borromeo",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":308,
+    "max_tuition":6670,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3666852,44.9772528 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":2703104,
+    "schoolname":"Good Shepherd School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06 ",
+    "tot_enrollment":305,
+    "max_tuition":8075,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.87619428361178, 45.20424667638804 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":877,
+    "dst_tye":31,
+    "DISTRICTNAME":"Buffalo-Hanover-Montrose Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":8773101,
+    "schoolname":"St. Francis Xavier",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":291,
+    "max_tuition":4800,
+    "county":86,
+    "county_name":"Wright",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.5113149,44.9396325 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":276,
+    "dst_tye":31,
+    "DISTRICTNAME":"Minnetonka Public School District",
+    "sch_num":8,
+    "sch_num_formatted":8,
+    "ID":2763108,
+    "schoolname":"St. Therese",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":290,
+    "max_tuition":5980,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.28963828,44.82327955 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":271,
+    "dst_tye":31,
+    "DISTRICTNAME":"Bloomington Public Schools",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":2713104,
+    "schoolname":"Nativity of Mary",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":283,
+    "max_tuition":6575,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9742084,45.26606142 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":831,
+    "dst_tye":31,
+    "DISTRICTNAME":"Forest Lake Public School District",
+    "sch_num":20,
+    "sch_num_formatted":20,
+    "ID":83131020,
+    "schoolname":"St. Peter Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":283,
+    "max_tuition":5995,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0195308,45.0584469 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":624,
+    "dst_tye":31,
+    "DISTRICTNAME":"White Bear Lake School District",
+    "sch_num":14,
+    "sch_num_formatted":14,
+    "ID":62431014,
+    "schoolname":"Liberty Classical Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":282,
+    "max_tuition":15680,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.388526,45.5796093 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":8,
+    "sch_num_formatted":8,
+    "ID":7423108,
+    "schoolname":"St. John's Preparatory School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":279,
+    "max_tuition":20480,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3157149,45.17029591 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":13,
+    "sch_num_formatted":13,
+    "ID":1131013,
+    "schoolname":"Epiphany Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":277,
+    "max_tuition":7300,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.38992493,44.921818 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2703101,
+    "schoolname":"Blake Lower School-Hopkins Campus",
+    "rel_affiliation":"None",
+    "grades_served":" gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":274,
+    "max_tuition":38598,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.427451,44.9876 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":12,
+    "sch_num_formatted":12,
+    "ID":28431012,
+    "schoolname":"Fourth Baptist Christian School",
+    "rel_affiliation":"Baptist",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":274,
+    "max_tuition":7750,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2923221,44.9969592 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":12,
+    "sch_num_formatted":12,
+    "ID":133012,
+    "schoolname":"Ascension Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":272,
+    "max_tuition":1400,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3478232,44.9490468 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":283,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Louis Park Public School District",
+    "sch_num":14,
+    "sch_num_formatted":14,
+    "ID":28331014,
+    "schoolname":"Groves Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":271,
+    "max_tuition":39413,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.144786,44.94139 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":872,
+    "sch_num_formatted":872,
+    "ID":625310872,
+    "schoolname":"St. Thomas More Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":271,
+    "max_tuition":7077,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.113926,44.7477399 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":196,
+    "dst_tye":31,
+    "DISTRICTNAME":"Rosemount-Apple Valley-Eagan",
+    "sch_num":7,
+    "sch_num_formatted":7,
+    "ID":1963107,
+    "schoolname":"St. Joseph's Catholic",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":270,
+    "max_tuition":6678,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.333893,44.951118 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":283,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Louis Park Public School District",
+    "sch_num":8,
+    "sch_num_formatted":8,
+    "ID":2833108,
+    "schoolname":"Torah Academy",
+    "rel_affiliation":"Jewish",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":255,
+    "max_tuition":15950,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1742515,44.92625019 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":877,
+    "sch_num_formatted":877,
+    "ID":625310877,
+    "schoolname":"St. Paul Academy - Summit (Lower)",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":246,
+    "max_tuition":36110,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.33719551,44.77500287 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":191,
+    "dst_tye":31,
+    "DISTRICTNAME":"Burnsville-Eagan-Savage Schools",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":1913102,
+    "schoolname":"St. John the Baptist",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":246,
+    "max_tuition":6075,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9572092,45.0638256 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":832,
+    "dst_tye":31,
+    "DISTRICTNAME":"Mahtomedi Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":8323101,
+    "schoolname":"St. Jude of the Lake",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":235,
+    "max_tuition":6270,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3848093,44.8106984 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":271,
+    "dst_tye":31,
+    "DISTRICTNAME":"Bloomington Public Schools",
+    "sch_num":21,
+    "sch_num_formatted":21,
+    "ID":27131021,
+    "schoolname":"Bloomington Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":226,
+    "max_tuition":6660,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2622309,45.0921125 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":14,
+    "dst_tye":31,
+    "DISTRICTNAME":"Fridley Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":143104,
+    "schoolname":"Woodcrest Baptist Academy",
+    "rel_affiliation":"Baptist",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":217,
+    "max_tuition":6200,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.45104853,44.91258732 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":815,
+    "sch_num_formatted":815,
+    "ID":270310815,
+    "schoolname":"Notre Dame Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":216,
+    "max_tuition":6495,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2827701,44.9343667 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":17,
+    "sch_num_formatted":17,
+    "ID":133017,
+    "schoolname":"Lake Country School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":215,
+    "max_tuition":23975,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.085378,45.019948 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":623,
+    "dst_tye":31,
+    "DISTRICTNAME":"Roseville Public School District",
+    "sch_num":6,
+    "sch_num_formatted":6,
+    "ID":6233106,
+    "schoolname":"Saint John School of Little Canada",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":215,
+    "max_tuition":5690,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2619011,45.0047951 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":45,
+    "sch_num_formatted":45,
+    "ID":133045,
+    "schoolname":"St. John Paul II Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":208,
+    "max_tuition":2550,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.463823,45.017772 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":11,
+    "sch_num_formatted":11,
+    "ID":28431011,
+    "schoolname":"West Lutheran High School",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":202,
+    "max_tuition":14500,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1072675,44.8599296 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":196,
+    "dst_tye":31,
+    "DISTRICTNAME":"Rosemount-Apple Valley-Eagan",
+    "sch_num":15,
+    "sch_num_formatted":15,
+    "ID":19631015,
+    "schoolname":"Trinity School at River Ridge",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":197,
+    "max_tuition":16900,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0146426,45.0830275 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":624,
+    "dst_tye":31,
+    "DISTRICTNAME":"White Bear Lake School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":6243102,
+    "schoolname":"Frassati Catholic Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":197,
+    "max_tuition":5850,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07123363,44.9185899 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":11,
+    "sch_num_formatted":11,
+    "ID":19731011,
+    "schoolname":"Community of Saints Regional Catholic ",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":196,
+    "max_tuition":4527,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.33269005,44.92942138 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":273,
+    "dst_tye":31,
+    "DISTRICTNAME":"Edina Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2733101,
+    "schoolname":"Avail Academy (Edina campus)",
+    "rel_affiliation":"Christian Int.",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":195,
+    "max_tuition":12670,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.354941,44.94487 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":283,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Louis Park Public School District",
+    "sch_num":15,
+    "sch_num_formatted":15,
+    "ID":28331015,
+    "schoolname":"Holy Family Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":191,
+    "max_tuition":6400,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1600183,44.926025 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":845,
+    "sch_num_formatted":845,
+    "ID":625310845,
+    "schoolname":"Holy Spirit School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":186,
+    "max_tuition":6850,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.99177939,45.02056361 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":622,
+    "dst_tye":31,
+    "DISTRICTNAME":"North St. Paul-Maplewood Oakdale",
+    "sch_num":69,
+    "sch_num_formatted":69,
+    "ID":62231069,
+    "schoolname":"St. Peter Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":186,
+    "max_tuition":5750,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.356671,45.00089 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":281,
+    "dst_tye":31,
+    "DISTRICTNAME":"Robbinsdale Public School District",
+    "sch_num":61,
+    "sch_num_formatted":61,
+    "ID":28131061,
+    "schoolname":"King of Grace Lutheran School",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":182,
+    "max_tuition":7045,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.84885298,44.73981057 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":200,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hastings Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2003101,
+    "schoolname":"St. Elizabeth Ann Seton",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":181,
+    "max_tuition":6903,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.258241,44.90434 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":47,
+    "sch_num_formatted":47,
+    "ID":133047,
+    "schoolname":"Our Lady of Peace",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":177,
+    "max_tuition":6175,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08981027,44.8875481 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":1973103,
+    "schoolname":"Crown of Life",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":176,
+    "max_tuition":8255,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.33417467,44.9653576 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":283,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Louis Park Public School District",
+    "sch_num":16,
+    "sch_num_formatted":16,
+    "ID":28331016,
+    "schoolname":"Heilicher Minneapolis Jewish Day School",
+    "rel_affiliation":"Jewish",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":175,
+    "max_tuition":25440,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.20761717843044, 45.621976467567556 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":748,
+    "dst_tye":31,
+    "DISTRICTNAME":"Sartell-St. Stephen School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7483101,
+    "schoolname":"St. Francis Xavier",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":172,
+    "max_tuition":6800,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08482676,44.9989318 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":623,
+    "dst_tye":31,
+    "DISTRICTNAME":"Roseville Public School District",
+    "sch_num":705,
+    "sch_num_formatted":705,
+    "ID":623310705,
+    "schoolname":"St. Jerome Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":171,
+    "max_tuition":5350,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.41730423,44.92423742 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":817,
+    "sch_num_formatted":817,
+    "ID":270310817,
+    "schoolname":"Chesterton Academy of the Twin Cities",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":169,
+    "max_tuition":9350,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.37372345,45.05370328 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":281,
+    "dst_tye":31,
+    "DISTRICTNAME":"Robbinsdale Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":2813101,
+    "schoolname":"St. Raphael Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":169,
+    "max_tuition":6040,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.36954635,45.38640954 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":15,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Francis Area Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":153101,
+    "schoolname":"St. Francis Christian",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":162,
+    "max_tuition":4475,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.496649,45.083134 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":279,
+    "dst_tye":31,
+    "DISTRICTNAME":"Osseo Public School District",
+    "sch_num":7,
+    "sch_num_formatted":7,
+    "ID":2793107,
+    "schoolname":"Ave Maria Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":161,
+    "max_tuition":10200,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.33753728,45.02864552 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":281,
+    "dst_tye":31,
+    "DISTRICTNAME":"Robbinsdale Public School District",
+    "sch_num":65,
+    "sch_num_formatted":65,
+    "ID":28131065,
+    "schoolname":"Sacred Heart School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":158,
+    "max_tuition":8155,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.57378598,44.54421346 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":721,
+    "dst_tye":31,
+    "DISTRICTNAME":"New Prague Area Schools",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7213101,
+    "schoolname":"St. Wenceslaus School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":156,
+    "max_tuition":5917,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.24183257,45.13287118 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":16,
+    "dst_tye":31,
+    "DISTRICTNAME":"Spring Lake Park Public Schools",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":163104,
+    "schoolname":"Avail Academy (Blaine K-8 Campus)",
+    "rel_affiliation":"Christian Int.",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":153,
+    "max_tuition":12670,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.35002639,45.02386231 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":281,
+    "dst_tye":31,
+    "DISTRICTNAME":"Robbinsdale Public School District",
+    "sch_num":68,
+    "sch_num_formatted":68,
+    "ID":28131068,
+    "schoolname":"RiverTree School",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":149,
+    "max_tuition":11760,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.27381107,44.74109428 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":196,
+    "dst_tye":31,
+    "DISTRICTNAME":"Rosemount-Apple Valley-Eagan",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":1963103,
+    "schoolname":"Good Shepherd Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":149,
+    "max_tuition":8380,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.25093326,45.04199107 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":13,
+    "dst_tye":31,
+    "DISTRICTNAME":"Columbia Heights Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":133101,
+    "schoolname":"Immaculate Conception",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":148,
+    "max_tuition":5150,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.28515006,45.37094389 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":15,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Francis Area Schools",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":153104,
+    "schoolname":"Immaculate Heart of Mary Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":146,
+    "max_tuition":4500,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.78514621,44.84944752 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":110,
+    "dst_tye":31,
+    "DISTRICTNAME":"Waconia Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":1103101,
+    "schoolname":"St. Joseph Catholic STEM School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":144,
+    "max_tuition":5999,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.098051,45.0054 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":623,
+    "dst_tye":31,
+    "DISTRICTNAME":"Roseville Public School District",
+    "sch_num":702,
+    "sch_num_formatted":702,
+    "ID":623310702,
+    "schoolname":"Minnesota Waldorf",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":143,
+    "max_tuition":18840,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.836881,44.9547 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":111,
+    "dst_tye":31,
+    "DISTRICTNAME":"Watertown-Mayer Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":1113104,
+    "schoolname":"Christ Community Lutheran School",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":142,
+    "max_tuition":4300,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1554054,45.00437908 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":623,
+    "dst_tye":31,
+    "DISTRICTNAME":"Roseville Public School District",
+    "sch_num":7,
+    "sch_num_formatted":7,
+    "ID":6233107,
+    "schoolname":"St. Rose of Lima Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":141,
+    "max_tuition":5800,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.52211276,45.12817191 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":279,
+    "dst_tye":31,
+    "DISTRICTNAME":"Osseo Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":2793103,
+    "schoolname":"St. John's Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":140,
+    "max_tuition":7354,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.158401,44.96479 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":975,
+    "sch_num_formatted":975,
+    "ID":625310975,
+    "schoolname":"Friends School of Minnesota",
+    "rel_affiliation":"Quaker",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":136,
+    "max_tuition":21180,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.46818,44.940409 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":8,
+    "sch_num_formatted":8,
+    "ID":2703108,
+    "schoolname":"Minnetonka Christian Academy",
+    "rel_affiliation":"Seventh-Day Adventist",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":132,
+    "max_tuition":8000,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.88971433,44.88704833 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":111,
+    "dst_tye":31,
+    "DISTRICTNAME":"Watertown-Mayer Public School District",
+    "sch_num":6,
+    "sch_num_formatted":6,
+    "ID":1113106,
+    "schoolname":"Zion Lutheran School",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":131,
+    "max_tuition":4650,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.109482,45.001034 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":623,
+    "dst_tye":31,
+    "DISTRICTNAME":"Roseville Public School District",
+    "sch_num":712,
+    "sch_num_formatted":712,
+    "ID":623310712,
+    "schoolname":"Hand in Hand Christian Montessori",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":128,
+    "max_tuition":12210,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.39982816,44.72657353 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":719,
+    "dst_tye":31,
+    "DISTRICTNAME":"Prior Lake-Savage Area Schools",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":7193104,
+    "schoolname":"Baitul Hikmah",
+    "rel_affiliation":"Muslim",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11 ",
+    "tot_enrollment":127,
+    "max_tuition":5800,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.17545857,45.56977179 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":13,
+    "sch_num_formatted":13,
+    "ID":74231013,
+    "schoolname":"All Saints Academy-St. Cloud Campus",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":126,
+    "max_tuition":6800,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.38992493,44.921818 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":707,
+    "sch_num_formatted":707,
+    "ID":270310707,
+    "schoolname":"Blake School - Early Learning Center",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01 ",
+    "tot_enrollment":126,
+    "max_tuition":5625,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.030877,44.99268 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":622,
+    "dst_tye":31,
+    "DISTRICTNAME":"North St. Paul-Maplewood Oakdale",
+    "sch_num":66,
+    "sch_num_formatted":66,
+    "ID":62231066,
+    "schoolname":"Presentation of Mary School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":124,
+    "max_tuition":5625,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.66720021,44.93489345 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":277,
+    "dst_tye":31,
+    "DISTRICTNAME":"Westonka Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":2773103,
+    "schoolname":"Our Lady of the Lake",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":122,
+    "max_tuition":5995,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.27887589,44.8816953 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":280,
+    "dst_tye":31,
+    "DISTRICTNAME":"Richfield Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":2803102,
+    "schoolname":"Blessed Trinity-Nicollet Campus",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":122,
+    "max_tuition":5400,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.99936695,45.23076863 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":881,
+    "dst_tye":31,
+    "DISTRICTNAME":"Maples Lake Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":8813101,
+    "schoolname":"St. Timothy's School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":122,
+    "max_tuition":3950,
+    "county":86,
+    "county_name":"Wright",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02399609,45.0631216 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":624,
+    "dst_tye":31,
+    "DISTRICTNAME":"White Bear Lake School District",
+    "sch_num":13,
+    "sch_num_formatted":13,
+    "ID":62431013,
+    "schoolname":"Magnuson Christian School",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":121,
+    "max_tuition":7550,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.68633844,45.66335885 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":740,
+    "dst_tye":31,
+    "DISTRICTNAME":"Melrose Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7403101,
+    "schoolname":"Sacred Heart",
+    "rel_affiliation":"",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06 ",
+    "tot_enrollment":118,
+    "max_tuition":1900,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02694531,44.95634939 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":875,
+    "sch_num_formatted":875,
+    "ID":625310875,
+    "schoolname":"St. Pascal Regional Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":115,
+    "max_tuition":4600,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.62549338,44.66796529 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":717,
+    "dst_tye":31,
+    "DISTRICTNAME":"Jordan Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7173101,
+    "schoolname":"St. John the Baptist Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":114,
+    "max_tuition":5989,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.25741591,44.96378039 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":42,
+    "sch_num_formatted":42,
+    "ID":133042,
+    "schoolname":"Trinity First Lutheran School",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":113,
+    "max_tuition":2500,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.90177922,45.12818183 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":834,
+    "dst_tye":31,
+    "DISTRICTNAME":"Stillwater Area Public Schools",
+    "sch_num":10,
+    "sch_num_formatted":10,
+    "ID":83431010,
+    "schoolname":"Liberty Classical Academy - Hugo Campus",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02 ",
+    "tot_enrollment":107,
+    "max_tuition":13850,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.98278772,44.96920489 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":622,
+    "dst_tye":31,
+    "DISTRICTNAME":"North St. Paul-Maplewood Oakdale",
+    "sch_num":68,
+    "sch_num_formatted":68,
+    "ID":62231068,
+    "schoolname":"Transfiguration",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":106,
+    "max_tuition":5900,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":740,
+    "dst_tye":31,
+    "DISTRICTNAME":"Melrose Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":7403103,
+    "schoolname":"St. Mary's Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06 ",
+    "tot_enrollment":106,
+    "max_tuition":2400,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.523578,44.976476 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":2843102,
+    "schoolname":"Redeemer Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":105,
+    "max_tuition":7108,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9482239,45.7374367 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":745,
+    "dst_tye":31,
+    "DISTRICTNAME":"Albany Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7453101,
+    "schoolname":"Holy Family",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":105,
+    "max_tuition":2600,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22518672,44.92385447 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":36,
+    "sch_num_formatted":36,
+    "ID":133036,
+    "schoolname":"St. Helena Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":103,
+    "max_tuition":5418,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.407891,44.75696 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":720,
+    "dst_tye":31,
+    "DISTRICTNAME":"Shakopee Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":7203102,
+    "schoolname":"Living Hope Lutheran School",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04 ",
+    "tot_enrollment":102,
+    "max_tuition":6660,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.196431,44.92221 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":885,
+    "sch_num_formatted":885,
+    "ID":625310885,
+    "schoolname":"Sunny Hollow Montessori",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":101,
+    "max_tuition":20574,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.31874002,45.5642523 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":10,
+    "sch_num_formatted":10,
+    "ID":74231010,
+    "schoolname":"St. Joseph Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":101,
+    "max_tuition":6805,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.27454371,45.15073837 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":12,
+    "sch_num_formatted":12,
+    "ID":1131012,
+    "schoolname":"Cross of Christ Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":99,
+    "max_tuition":7450,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.16488165,45.54238819 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":20,
+    "sch_num_formatted":20,
+    "ID":74231020,
+    "schoolname":"St. Elizabeth Ann Seton School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":92,
+    "max_tuition":6800,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04084286,44.87837695 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":6,
+    "dst_tye":33,
+    "DISTRICTNAME":"South St. Paul Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":63302,
+    "schoolname":"Holy Trinity",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":90,
+    "max_tuition":5850,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.39122896,44.99020616 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":816,
+    "sch_num_formatted":816,
+    "ID":270310816,
+    "schoolname":"Franklin Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":88,
+    "max_tuition":38000,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12542771,44.98412037 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":850,
+    "sch_num_formatted":850,
+    "ID":625310850,
+    "schoolname":"Maternity of Mary/St. Andrew",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":87,
+    "max_tuition":5300,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.66703708,45.1293668 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":877,
+    "dst_tye":31,
+    "DISTRICTNAME":"Buffalo-Hanover-Montrose Schools",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":8773102,
+    "schoolname":"Salem Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":85,
+    "max_tuition":7200,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.24770563,45.20674593 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":25,
+    "sch_num_formatted":25,
+    "ID":1131025,
+    "schoolname":"Northside Christian (Blaine Campus)",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":85,
+    "max_tuition":7080,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.78797317,45.0382966 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":879,
+    "dst_tye":31,
+    "DISTRICTNAME":"Delano Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":8793103,
+    "schoolname":"St. Maximilian Kolbe Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":82,
+    "max_tuition":5300,
+    "county":86,
+    "county_name":"Wright",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.51902599,45.45577557 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":750,
+    "dst_tye":31,
+    "DISTRICTNAME":"ROCORI Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":7503103,
+    "schoolname":"Saints Peter & Paul Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":82,
+    "max_tuition":4100,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14490076,44.95274649 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":880,
+    "sch_num_formatted":880,
+    "ID":625310880,
+    "schoolname":"St. Peter Claver Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":81,
+    "max_tuition":1400,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.80421718,45.03967102 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":834,
+    "dst_tye":31,
+    "DISTRICTNAME":"Stillwater Area Public Schools",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":8343103,
+    "schoolname":"Salem Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":79,
+    "max_tuition":8000,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9962494,45.0218516 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":622,
+    "dst_tye":31,
+    "DISTRICTNAME":"North St. Paul-Maplewood Oakdale",
+    "sch_num":51,
+    "sch_num_formatted":51,
+    "ID":62231051,
+    "schoolname":"Christ Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":79,
+    "max_tuition":6633,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.550221,45.18838 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":728,
+    "dst_tye":31,
+    "DISTRICTNAME":"Elk River Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":7283104,
+    "schoolname":"Mary Queen of Peace Catholic School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":79,
+    "max_tuition":4525,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":22,
+    "sch_num_formatted":22,
+    "ID":28431022,
+    "schoolname":"Excel High School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":75,
+    "max_tuition":4905,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.84198848,44.95116014 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":834,
+    "dst_tye":31,
+    "DISTRICTNAME":"Stillwater Area Public Schools",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":8343104,
+    "schoolname":"St. Croix Montessori School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06 ",
+    "tot_enrollment":72,
+    "max_tuition":14104,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23522235,45.21051524 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":713,
+    "sch_num_formatted":713,
+    "ID":11310713,
+    "schoolname":"The Way of the Shepherd",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":71,
+    "max_tuition":8755,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":108,
+    "dst_tye":31,
+    "DISTRICTNAME":"Central Public School District",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":1083103,
+    "schoolname":"St. John's Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":71,
+    "max_tuition":3500,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.40773084,44.72321824 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":719,
+    "dst_tye":31,
+    "DISTRICTNAME":"Prior Lake-Savage Area Schools",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":7193103,
+    "schoolname":"St. Paul's Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":70,
+    "max_tuition":5040,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.96716637,44.67389683 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":200,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hastings Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":2003102,
+    "schoolname":"St. John the Baptist",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04 ",
+    "tot_enrollment":69,
+    "max_tuition":3900,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.31361555,44.84374233 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":271,
+    "dst_tye":31,
+    "DISTRICTNAME":"Bloomington Public Schools",
+    "sch_num":31,
+    "sch_num_formatted":31,
+    "ID":27131031,
+    "schoolname":"Ramalynn Montessori Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":68,
+    "max_tuition":11950,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.310381,44.86645 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":280,
+    "dst_tye":31,
+    "DISTRICTNAME":"Richfield Public School District",
+    "sch_num":6,
+    "sch_num_formatted":6,
+    "ID":2803106,
+    "schoolname":"Blessed Trinity-Penn Campus",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03 ",
+    "tot_enrollment":66,
+    "max_tuition":5200,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":191,
+    "dst_tye":31,
+    "DISTRICTNAME":"Burnsville-Eagan-Savage Schools",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":1913103,
+    "schoolname":"Unity High School",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":65,
+    "max_tuition":8250,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.781171,45.296426 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":882,
+    "dst_tye":31,
+    "DISTRICTNAME":"Monticello Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":8823102,
+    "schoolname":"Holy Spirit Academy",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":64,
+    "max_tuition":10209,
+    "county":86,
+    "county_name":"Wright",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.87653696,45.19389253 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":877,
+    "dst_tye":31,
+    "DISTRICTNAME":"Buffalo-Hanover-Montrose Schools",
+    "sch_num":6,
+    "sch_num_formatted":6,
+    "ID":8773106,
+    "schoolname":"Impact Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_10 ",
+    "tot_enrollment":61,
+    "max_tuition":6750,
+    "county":86,
+    "county_name":"Wright",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":108,
+    "dst_tye":31,
+    "DISTRICTNAME":"Central Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":1083104,
+    "schoolname":"Zion Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":61,
+    "max_tuition":1800,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.17603433,45.54662567 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":706,
+    "sch_num_formatted":706,
+    "ID":742310706,
+    "schoolname":"Calvary Classical Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10 ",
+    "tot_enrollment":53,
+    "max_tuition":6830,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.25262962,45.10118915 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":16,
+    "dst_tye":31,
+    "DISTRICTNAME":"Spring Lake Park Public Schools",
+    "sch_num":6,
+    "sch_num_formatted":6,
+    "ID":163106,
+    "schoolname":"Avail Academy (Fridley 9-12 Campus)",
+    "rel_affiliation":"Christian Int.",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":51,
+    "max_tuition":13100,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10914071,45.00110975 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":9,
+    "sch_num_formatted":9,
+    "ID":2843109,
+    "schoolname":"Hand in Hand Montessori-Highcroft",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_06 ",
+    "tot_enrollment":47,
+    "max_tuition":12546,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.987051,44.84131 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":833,
+    "dst_tye":31,
+    "DISTRICTNAME":"South Washington County Schools",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":8333102,
+    "schoolname":"Hope Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":45,
+    "max_tuition":7886,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.98342961,44.73156967 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":108,
+    "dst_tye":31,
+    "DISTRICTNAME":"Central Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":1083101,
+    "schoolname":"Emanuel Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":45,
+    "max_tuition":4050,
+    "county":10,
+    "county_name":"Carver",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0503953,45.05103625 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":624,
+    "dst_tye":31,
+    "DISTRICTNAME":"White Bear Lake School District",
+    "sch_num":7,
+    "sch_num_formatted":7,
+    "ID":6243107,
+    "schoolname":"White Bear Montessori School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":44,
+    "max_tuition":14511,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23182009,45.29028843 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":701,
+    "sch_num_formatted":701,
+    "ID":11310701,
+    "schoolname":"Foundations Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":44,
+    "max_tuition":7150,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.282422,44.747802 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":196,
+    "dst_tye":31,
+    "DISTRICTNAME":"Rosemount-Apple Valley-Eagan",
+    "sch_num":13,
+    "sch_num_formatted":13,
+    "ID":19631013,
+    "schoolname":"Cyprus Classical Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":42,
+    "max_tuition":24650,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.82737488,45.0395434 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":834,
+    "dst_tye":31,
+    "DISTRICTNAME":"Stillwater Area Public Schools",
+    "sch_num":9,
+    "sch_num_formatted":9,
+    "ID":8343109,
+    "schoolname":"Chesterton Academy of the St. Croix",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":42,
+    "max_tuition":9550,
+    "county":82,
+    "county_name":"Washington",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.55958511,44.897293 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":276,
+    "dst_tye":31,
+    "DISTRICTNAME":"Minnetonka Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":2763104,
+    "schoolname":"St. John the Baptist Catholic Montessori",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06 ",
+    "tot_enrollment":42,
+    "max_tuition":6200,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.384321,45.190354 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":11,
+    "dst_tye":31,
+    "DISTRICTNAME":"Anoka-Hennepin Public School District",
+    "sch_num":31,
+    "sch_num_formatted":31,
+    "ID":1131031,
+    "schoolname":"Montessori Renaissance Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":41,
+    "max_tuition":9000,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.271061,44.58423 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":194,
+    "dst_tye":31,
+    "DISTRICTNAME":"Lakeville Area Schools",
+    "sch_num":3,
+    "sch_num_formatted":3,
+    "ID":1943103,
+    "schoolname":"Glory Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_12 ",
+    "tot_enrollment":38,
+    "max_tuition":3925,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":740,
+    "dst_tye":31,
+    "DISTRICTNAME":"Melrose Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":7403102,
+    "schoolname":"St. John's - St. Andrew's Catholic",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06 ",
+    "tot_enrollment":38,
+    "max_tuition":2025,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.78322157,45.04149447 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":879,
+    "dst_tye":31,
+    "DISTRICTNAME":"Delano Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":8793102,
+    "schoolname":"Mt. Olive Lutheran",
+    "rel_affiliation":"Lutheran",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08 ",
+    "tot_enrollment":37,
+    "max_tuition":5150,
+    "county":86,
+    "county_name":"Wright",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.299004,44.726184 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":194,
+    "dst_tye":31,
+    "DISTRICTNAME":"Lakeville Area Schools",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":1943102,
+    "schoolname":"Southview Christian",
+    "rel_affiliation":"Seventh-Day Adventist",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_10 ",
+    "tot_enrollment":35,
+    "max_tuition":4908,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23808437,44.98057257 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":1,
+    "dst_tye":33,
+    "DISTRICTNAME":"Minneapolis Public School District",
+    "sch_num":935,
+    "sch_num_formatted":935,
+    "ID":1330935,
+    "schoolname":"Gaia Democratic School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":30,
+    "max_tuition":8500,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.333855,44.965313 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":270,
+    "dst_tye":31,
+    "DISTRICTNAME":"Hopkins Public School District",
+    "sch_num":720,
+    "sch_num_formatted":720,
+    "ID":270310720,
+    "schoolname":"Arete Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_05; gr_06; gr_07; gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":27,
+    "max_tuition":28700,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.76635485,44.62432677 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":716,
+    "dst_tye":31,
+    "DISTRICTNAME":"Belle Plaine Public School District",
+    "sch_num":1,
+    "sch_num_formatted":1,
+    "ID":7163101,
+    "schoolname":"Our Lady of the Prairie",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_05; gr_06 ",
+    "tot_enrollment":24,
+    "max_tuition":3650,
+    "county":70,
+    "county_name":"Scott",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.5552476,45.2089077 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":728,
+    "dst_tye":31,
+    "DISTRICTNAME":"Elk River Public School District",
+    "sch_num":13,
+    "sch_num_formatted":13,
+    "ID":72831013,
+    "schoolname":"Trilogy STEM Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_05; gr_06; gr_07; gr_08; gr_09; gr_12 ",
+    "tot_enrollment":17,
+    "max_tuition":6656,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.46363726,45.0111639 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":21,
+    "sch_num_formatted":21,
+    "ID":28431021,
+    "schoolname":"Brightmont Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_08; gr_09; gr_10; gr_11; gr_12 ",
+    "tot_enrollment":11,
+    "max_tuition":31350,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.15325043,45.47890643 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":11,
+    "sch_num_formatted":11,
+    "ID":74231011,
+    "schoolname":"St. Mary Help of Christians",
+    "rel_affiliation":"Catholic",
+    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
+    "tot_enrollment":10,
+    "max_tuition":6800,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.18030791,44.94560311 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":625,
+    "dst_tye":31,
+    "DISTRICTNAME":"Saint Paul Public Schools",
+    "sch_num":848,
+    "sch_num_formatted":848,
+    "ID":625310848,
+    "schoolname":"Jean Lyle Children’s Center",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg ",
+    "tot_enrollment":10,
+    "max_tuition":6651,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.46560346,44.9735611 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":284,
+    "dst_tye":31,
+    "DISTRICTNAME":"Wayzata Public School District",
+    "sch_num":23,
+    "sch_num_formatted":23,
+    "ID":28431023,
+    "schoolname":"Northgate Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_10; gr_11; gr_12 ",
+    "tot_enrollment":9,
+    "max_tuition":4900,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.097001,44.89868 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":12,
+    "sch_num_formatted":12,
+    "ID":19731012,
+    "schoolname":"Mississippi Valley Montessori School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg ",
+    "tot_enrollment":8,
+    "max_tuition":13063,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.363721,44.94017 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":283,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Louis Park Public School District",
+    "sch_num":4,
+    "sch_num_formatted":4,
+    "ID":2833104,
+    "schoolname":"Metropolitan Open School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_02; gr_03; gr_05; gr_06 ",
+    "tot_enrollment":7,
+    "max_tuition":12000,
+    "county":27,
+    "county_name":"Hennepin",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":738,
+    "dst_tye":31,
+    "DISTRICTNAME":"Holdingford Public School District",
+    "sch_num":11,
+    "sch_num_formatted":11,
+    "ID":73831011,
+    "schoolname":"Aletheia Christian Academy",
+    "rel_affiliation":"Christian",
+    "grades_served":" gr_kg; gr_01; gr_03; gr_07 ",
+    "tot_enrollment":7,
+    "max_tuition":3900,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.120561,44.88477 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":197,
+    "dst_tye":31,
+    "DISTRICTNAME":"West St. Paul-Mendota Heights-Eagan",
+    "sch_num":19,
+    "sch_num_formatted":19,
+    "ID":19731019,
+    "schoolname":"Brightmont Academy",
+    "rel_affiliation":"None",
+    "grades_served":" gr_06; gr_07; gr_11; gr_12 ",
+    "tot_enrollment":6,
+    "max_tuition":31350,
+    "county":19,
+    "county_name":"Dakota",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.24472032,45.07997846 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":621,
+    "dst_tye":31,
+    "DISTRICTNAME":"Mounds View Public School District",
+    "sch_num":86,
+    "sch_num_formatted":86,
+    "ID":62131086,
+    "schoolname":"Harbon Montessori",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg; gr_03; gr_04 ",
+    "tot_enrollment":5,
+    "max_tuition":9180,
+    "county":62,
+    "county_name":"Ramsey",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.24946396,45.06156667 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":13,
+    "dst_tye":31,
+    "DISTRICTNAME":"Columbia Heights Public School District",
+    "sch_num":2,
+    "sch_num_formatted":2,
+    "ID":133102,
+    "schoolname":"Little Voyageurs' Montessori",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg ",
+    "tot_enrollment":3,
+    "max_tuition":11178,
+    "county":2,
+    "county_name":"Anoka",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.176671,45.61142 ]
+    },
+    "properties": {
+    "DAT_YER":"24-25",
+    "dst_num":742,
+    "dst_tye":31,
+    "DISTRICTNAME":"St. Cloud Public School District",
+    "sch_num":705,
+    "sch_num_formatted":705,
+    "ID":742310705,
+    "schoolname":"Whole Child Montessori School",
+    "rel_affiliation":"None",
+    "grades_served":" gr_kg ",
+    "tot_enrollment":3,
+    "max_tuition":5265,
+    "county":73,
+    "county_name":"Stearns",
+    "In metro":"Metro",
+    "In smaller metro":"Metro",
+    "eco_dev":"07W"
+    }
+  }
+]
+}
