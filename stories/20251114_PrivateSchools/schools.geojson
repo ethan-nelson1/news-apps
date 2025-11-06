@@ -4724,7 +4724,7 @@
     "schoolname":"Little Voyageurs' Montessori",
     "rel_affiliation":"None",
     "grades_served":" gr_kg ",
-    "tot_enrollment":3,
+    "tot_enrollment":NA,
     "max_tuition":11178,
     "county":2,
     "county_name":"Anoka",
