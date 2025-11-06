@@ -1669,32 +1669,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -93.1742515,44.92625019 ]
-    },
-    "properties": {
-    "DAT_YER":"24-25",
-    "dst_num":625,
-    "dst_tye":31,
-    "DISTRICTNAME":"Saint Paul Public Schools",
-    "sch_num":877,
-    "sch_num_formatted":877,
-    "ID":625310877,
-    "schoolname":"St. Paul Academy - Summit (Lower)",
-    "rel_affiliation":"None",
-    "grades_served":" gr_kg; gr_01; gr_02; gr_03; gr_04; gr_05 ",
-    "tot_enrollment":246,
-    "max_tuition":36110,
-    "county":62,
-    "county_name":"Ramsey",
-    "In metro":"Metro",
-    "In smaller metro":"Metro",
-    "eco_dev":"11"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -93.33719551,44.77500287 ]
     },
     "properties": {
