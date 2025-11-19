@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>St. Paul CBD</title>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@5.8.0/dist/maplibre-gl.css' />
+    <script src='https://unpkg.com/maplibre-gl@5.8.0/dist/maplibre-gl.js'></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+    <style>
+        body { margin: 0; padding: 0; }
+        html, body, #map { height: 100%; }
+
+        /* Popup styling */
+        .maplibregl-popup-content {
+            font-family: 'Inconsolata', monospace;
+            background: #fff;
+            border-radius: 8px;
+            padding: 12px 6px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            color: #333;
+        }
+
+        .popup-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 2px;
+            color: #333;
+        }
+
+        .popup-address {
+            font-size: 14px;
+            color: #555;
+        }
+
+
+        /* Legend Styling */
+        .legend {
+            position: absolute;
+            bottom: 30px;
+            left: 10px;
+            background: #fff;
+            padding: 10px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            font-family: Arial, sans-serif;
+            font-size: 13px;
+            width: 15%;
+        }
+        .legend h4 {
+            margin: 0 0 8px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .color-bar {
+            height: 12px;
+            background: linear-gradient(to right, #feedde, #fdbe85, #fd8d3c, #e6550d, #a63603);
+            margin-bottom: 6px;
+            border-radius: 4px;
+        }
+        .legend-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            .legend {
+                width: auto;
+                padding: 8px;
+                font-size: 12px;
+            }
+            .legend h4 { font-size: 13px; }
+            .maplibregl-popup-content {
+                font-size: 12px;
+                padding: 8px 10px;
+            }
+        }
+
+
+    </style>
+</head>
+
+<body>
+
+<div id="map"></div>
+
+<!-- Legend -->
+<div class="legend">
+    <h4>St. Paul's office vacancy rate</h4>
+    <div class="color-bar"></div>
+    <div class="legend-labels">
+        <span>0%</span>
+        <span>25%</span>
+        <span>50%</span>
+        <span>75%</span>
+        <span>100%</span>
+    </div>
+        <p>Darker colors indicate more vacant buildings. Information is as of Aug. 1, 2025. Source: Greater St. Paul BOMA</p>
+</div>
+
+ <script>
+    const map = new maplibregl.Map({
+        container: 'map',
+        style: 'https://api.maptiler.com/maps/0199c5c6-07ba-7b0b-ac48-b658ede2f451/style.json?key=Y3lPBbbj1aya0WF8hqJk',
+        center: [-93.0873754288351, 44.946862648162714],
+        zoom: 15 
+    });
+
+    map.on('load', async () => {
+
+        map.addSource('buildings', {
+                'type': 'geojson',
+                'data': 'data/stp_buildings.json'
+            });
+
+        map.addLayer({
+            'id': 'building',
+            'type': 'fill',
+            'source': 'buildings',
+            'paint': {
+                'fill-color': [
+                'interpolate',
+                        ['linear'], // Interpolation method (can also be 'exponential' or 'cubic-bezier')
+                        ['get', 'vacancy_rate'],
+                        0, '#feedde', 
+                        .25, '#fdbe85',
+                        .50, '#fd8d3c', 
+                        .75, '#e6550d',
+                        1, '#a63603' 
+            ],
+                'fill-outline-color': 'white',
+                'fill-opacity': .9
+            }
+            });
+
+        map.addLayer({
+            'id': 'building-outline',
+            'type': 'line',
+            'source': 'buildings',
+            'paint': {
+                'line-color': '#fff',
+                'line-width': 2
+            }
+            });
+
+        const popup = new maplibregl.Popup({
+            closeButton: false,
+            closeOnClick: false
+        });
+
+        map.on('mousemove', 'building', (e) => {
+            const feature = e.features[0];
+            const name = feature.properties.property_name || 'Unnamed Building';
+            const address = feature.properties.address || 'Address not available';
+            const classType = feature.properties.class || 'Unknown Class';
+
+            popup
+                .setLngLat(e.lngLat)
+                .setHTML(`
+                    <div class="popup-content">
+                        <div class="popup-title">${name}</div>
+                        <div class="popup-address">Class ${classType}</div>
+                        <div class="popup-address">${address}</div>
+                        <hr>
+                        <div class="popup-address">Vacancy rate: ${feature.properties.vacancy_rate.toLocaleString(undefined, {style: 'percent', minimumFractionDigits: 2})}</div>
+                        <div class="popup-address">Rentable area: ${feature.properties.office_space.toLocaleString(undefined, { maximumFractionDigits : 1, notation: 'compact', compactDisplay: 'short' })} sq. ft.</div>
+                    </div>
+                `)
+
+                .addTo(map);
+        });
+
+        map.on('mouseleave', 'building', () => {
+            popup.remove();
+        });
+
+    });
+
+
+    </script>
+</body>
+</html> 
