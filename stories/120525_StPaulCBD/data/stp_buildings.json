@@ -1348,7 +1348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "property_name": "\"Northwestern Building\"",
+        "property_name": "Northwestern Building",
         "address": "275 E. 4th St.",
         "vacancy_rate": 0.150609815,
         "office_space": "82,976",
